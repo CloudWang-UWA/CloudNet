@@ -1,0 +1,97 @@
+unknown
+wall
+floor
+ceiling
+bed
+windowpane
+cabinet
+person
+door
+table
+plant
+curtain
+chair
+painting
+sofa
+shelf
+mirror
+rug
+armchair
+seat
+desk
+wardrobe
+lamp
+bathtub
+railing
+cushion
+base
+box
+column
+chest of drawers
+counter
+sink
+fireplace
+refrigerator
+stairs
+case
+pool table
+pillow
+screen door
+stairway
+bookcase
+blind
+coffee table
+toilet
+flower
+book
+bench
+countertop
+stove
+kitchen island
+computer
+swivel chair
+bar
+arcade machine
+towel
+light
+chandelier
+television receiver
+apparel
+pole
+bannister
+escalator
+ottoman
+bottle
+buffet
+poster
+washer
+plaything
+stool
+barrel
+basket
+bag
+cradle
+oven
+ball
+food
+step
+microwave
+pot
+dishwasher
+screen
+blanket
+sculpture
+hood
+sconce
+vase
+tray
+ashcan
+fan
+crt screen
+plate
+monitor
+bulletin board
+shower
+radiator
+glass
+clock

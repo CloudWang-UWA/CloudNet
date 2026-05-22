@@ -1,0 +1,22 @@
+#!/bin/bash
+#SBATCH -J style_full
+#SBATCH -o logs/style_full/%x-%j.out
+#SBATCH -e logs/style_full/%x-%j.err
+#SBATCH -p gpu
+#SBATCH -N 1
+#SBATCH -n 1
+#SBATCH --gres=gpu:v100:1
+#SBATCH --mem=32G
+#SBATCH -t 70:00:00
+
+# ==== Env ====
+module load Anaconda3/2024.06
+source ~/.bashrc
+conda activate "${CONDA_ENV:-cloudnet}"
+
+# ==== Execute ====
+PROJECT_ROOT="${PROJECT_ROOT:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}"
+cd "$PROJECT_ROOT"
+
+mkdir -p "$PROJECT_ROOT/logs/style_full"
+bash "$PROJECT_ROOT/scripts/run_style_full_workflow.sh"

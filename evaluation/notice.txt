@@ -1,0 +1,11 @@
+NOTICE — Image range for CLIP score
+
+sd_pipeline(..., output_type="numpy") returns images in range [0, 1].
+→ MUST multiply by 255 before using.
+
+Plain images loaded from PNG/JPG are already in range [0, 255].
+→ DO NOT multiply by 255.
+
+torchmetrics.functional.multimodal.clip_score internally divides by 255.
+
+Therefore, before calling clip_score, always ensure images are in range [0, 255] (uint8).

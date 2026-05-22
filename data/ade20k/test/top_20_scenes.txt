@@ -1,0 +1,54 @@
+Top 50 scenes from ../../data/ade20k/test/data_ip_test.json
+------------------------------------------------------------
+rank  scene                             count   percent
+------------------------------------------------------------
+   1  bedroom                             139    15.21%
+   2  living room                          72     7.88%
+   3  bathroom                             66     7.22%
+   4  kitchen                              66     7.22%
+   5  dining room                          43     4.70%
+   6  conference room                      16     1.75%
+   7  hotel room                           16     1.75%
+   8  corridor                             14     1.53%
+   9  office                               13     1.42%
+  10  game room                            10     1.09%
+  11  home office                          10     1.09%
+  12  poolroom home                        10     1.09%
+  13  airport terminal                      9     0.98%
+  14  waiting room                          9     0.98%
+  15  art studio                            8     0.88%
+  16  attic                                 8     0.88%
+  17  art gallery                           7     0.77%
+  18  childs room                           7     0.77%
+  19  parlor                                7     0.77%
+  20  classroom                             6     0.66%
+  21  closet                                6     0.66%
+  22  dorm room                             6     0.66%
+  23  garage                                6     0.66%
+  24  lobby                                 6     0.66%
+  25  nursery                               6     0.66%
+  26  reception                             6     0.66%
+  27  staircase                             6     0.66%
+  28  bar                                   5     0.55%
+  29  warehouse                             5     0.55%
+  30  clothing store                        4     0.44%
+  31  dinette home                          4     0.44%
+  32  vehicle                               4     0.44%
+  33  hallway                               4     0.44%
+  34  jacuzzi                               4     0.44%
+  35  museum                                4     0.44%
+  36  playroom                              4     0.44%
+  37  wet bar                               4     0.44%
+  38  window seat                           4     0.44%
+  39  youth hostel                          4     0.44%
+  40  artists loft                          3     0.33%
+  41  auditorium                            3     0.33%
+  42  auto showroom                         3     0.33%
+  43  baggage claim                         3     0.33%
+  44  ballroom                              3     0.33%
+  45  basement                              3     0.33%
+  46  beauty salon                          3     0.33%
+  47  bow window                            3     0.33%
+  48  fastfood restaurant                   3     0.33%
+  49  gymnasium                             3     0.33%
+  50  laundromat                            3     0.33%

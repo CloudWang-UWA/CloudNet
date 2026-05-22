@@ -1,0 +1,2642 @@
+[
+    {
+        "image_file": "00001.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00002.jpg",
+        "text": "A dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00003.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00004.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00005.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00006.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00007.jpg",
+        "text": "A bathroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00008.jpg",
+        "text": "A dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00009.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00010.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00011.jpg",
+        "text": "A living and dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00012.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00013.jpg",
+        "text": "A bathroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00014.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00015.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00016.jpg",
+        "text": "A corridor",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00017.jpg",
+        "text": "A dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00018.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00019.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00020.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00021.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00022.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00023.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00024.jpg",
+        "text": "A bathroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00025.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00026.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00027.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00028.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00029.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00030.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00031.jpg",
+        "text": "A kitchen and dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00032.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00033.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00034.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00035.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00036.jpg",
+        "text": "A bathroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00037.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00038.jpg",
+        "text": "An office",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00039.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00040.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00041.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00042.jpg",
+        "text": "A liv",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00043.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00044.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00045.jpg",
+        "text": "A dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00046.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00047.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00048.jpg",
+        "text": "A living and dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00049.jpg",
+        "text": "A kitchen and living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00050.jpg",
+        "text": "An office",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00051.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00052.jpg",
+        "text": "A bathroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00053.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00054.jpg",
+        "text": "A bathroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00055.jpg",
+        "text": "A dining and living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00056.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00057.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00058.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00059.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00060.jpg",
+        "text": "A kitchen and dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00061.jpg",
+        "text": "An office",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00062.jpg",
+        "text": "A dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00063.jpg",
+        "text": "A kitchen and dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00064.jpg",
+        "text": "An office",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00065.jpg",
+        "text": "An office",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00066.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00067.jpg",
+        "text": "A dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00068.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00069.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00070.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00071.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00072.jpg",
+        "text": "A dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00073.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00074.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00075.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00076.jpg",
+        "text": "A bathroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00077.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00078.jpg",
+        "text": "A kitchen and living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00079.jpg",
+        "text": "A kitchen and dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00080.jpg",
+        "text": "A bathroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00081.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00082.jpg",
+        "text": "An office",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00083.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00084.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00085.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00086.jpg",
+        "text": "A dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00087.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00088.jpg",
+        "text": "A kitchen and dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00089.jpg",
+        "text": "An office",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00090.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00091.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00092.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00093.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00094.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00095.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00096.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00097.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00098.jpg",
+        "text": "A bedroom",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00099.jpg",
+        "text": "A dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00100.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00101.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00102.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00103.jpg",
+        "text": "A dining room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00104.jpg",
+        "text": "An office",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00105.jpg",
+        "text": "A kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00106.jpg",
+        "text": "A living room",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00107.jpg",
+        "text": "A dining room and kitchen",
+        "style": "cozy"
+    },
+    {
+        "image_file": "00108.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00109.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00110.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00111.jpg",
+        "text": "An office",
+        "style": "messy"
+    },
+    {
+        "image_file": "00112.jpg",
+        "text": "A living room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00113.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00114.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00115.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00116.jpg",
+        "text": "A dining room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00117.jpg",
+        "text": "A living room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00118.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00119.jpg",
+        "text": "An office",
+        "style": "messy"
+    },
+    {
+        "image_file": "00120.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00121.jpg",
+        "text": "A kitchen and dining room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00122.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00123.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00124.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00125.jpg",
+        "text": "A conference room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00126.jpg",
+        "text": "A corridor",
+        "style": "messy"
+    },
+    {
+        "image_file": "00127.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00128.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00129.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00130.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00131.jpg",
+        "text": "An office",
+        "style": "messy"
+    },
+    {
+        "image_file": "00132.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00133.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00134.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00135.jpg",
+        "text": "An office",
+        "style": "messy"
+    },
+    {
+        "image_file": "00136.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00137.jpg",
+        "text": "A kitchen and dining room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00138.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00139.jpg",
+        "text": "An office",
+        "style": "messy"
+    },
+    {
+        "image_file": "00140.jpg",
+        "text": "A dining room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00141.jpg",
+        "text": "An office",
+        "style": "messy"
+    },
+    {
+        "image_file": "00142.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00143.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00144.jpg",
+        "text": "A dining room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00145.jpg",
+        "text": "A bathroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00146.jpg",
+        "text": "A dining room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00147.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00148.jpg",
+        "text": "A bathroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00149.jpg",
+        "text": "A living room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00150.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00151.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00152.jpg",
+        "text": "An office",
+        "style": "messy"
+    },
+    {
+        "image_file": "00153.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00154.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00155.jpg",
+        "text": "An office",
+        "style": "messy"
+    },
+    {
+        "image_file": "00156.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00157.jpg",
+        "text": "A bathroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00158.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00159.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00160.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00161.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00162.jpg",
+        "text": "A dining room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00163.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00164.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00165.jpg",
+        "text": "A living room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00166.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00167.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00168.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00169.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00170.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00171.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00172.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00173.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00174.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00175.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00176.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00177.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00178.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00179.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00180.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00181.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00182.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00183.jpg",
+        "text": "An office",
+        "style": "messy"
+    },
+    {
+        "image_file": "00184.jpg",
+        "text": "A dining room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00185.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00186.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00187.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00188.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00189.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00190.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00191.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00192.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00193.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00194.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00195.jpg",
+        "text": "A kitchen",
+        "style": "messy"
+    },
+    {
+        "image_file": "00196.jpg",
+        "text": "A living room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00197.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00198.jpg",
+        "text": "A living room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00199.jpg",
+        "text": "A dining room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00200.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00201.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00202.jpg",
+        "text": "An office",
+        "style": "messy"
+    },
+    {
+        "image_file": "00203.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00204.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00205.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00206.jpg",
+        "text": "A dining room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00207.jpg",
+        "text": "A living room",
+        "style": "messy"
+    },
+    {
+        "image_file": "00208.jpg",
+        "text": "An office",
+        "style": "messy"
+    },
+    {
+        "image_file": "00209.jpg",
+        "text": "A bedroom",
+        "style": "messy"
+    },
+    {
+        "image_file": "00210.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00211.jpg",
+        "text": "A bathroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00212.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00213.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00214.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00215.jpg",
+        "text": "A corridor",
+        "style": "classic"
+    },
+    {
+        "image_file": "00216.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00217.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00218.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00219.jpg",
+        "text": "A bathroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00220.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00221.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00222.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00223.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00224.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00225.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00226.jpg",
+        "text": "A bathroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00227.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00228.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00229.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00230.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00231.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00232.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00233.jpg",
+        "text": "A music room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00234.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00235.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00236.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00237.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00238.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00239.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00240.jpg",
+        "text": "A conference room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00241.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00242.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00243.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00244.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00245.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00246.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00247.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00248.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00249.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00250.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00251.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00252.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00253.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00254.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00255.jpg",
+        "text": "A corridor",
+        "style": "classic"
+    },
+    {
+        "image_file": "00256.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00257.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00258.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00259.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00260.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00261.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00262.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00263.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00264.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00265.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00266.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00267.jpg",
+        "text": "A corridor",
+        "style": "classic"
+    },
+    {
+        "image_file": "00268.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00269.jpg",
+        "text": "A corridor",
+        "style": "classic"
+    },
+    {
+        "image_file": "00270.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00271.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00272.jpg",
+        "text": "A bathroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00273.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00274.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00275.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00276.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00277.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00278.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00279.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00280.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00281.jpg",
+        "text": "A corridor",
+        "style": "classic"
+    },
+    {
+        "image_file": "00282.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00283.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00284.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00285.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00286.jpg",
+        "text": "A music room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00287.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00288.jpg",
+        "text": "A bathroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00289.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00290.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00291.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00292.jpg",
+        "text": "An office",
+        "style": "classic"
+    },
+    {
+        "image_file": "00293.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00294.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00295.jpg",
+        "text": "A corridor",
+        "style": "classic"
+    },
+    {
+        "image_file": "00296.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00297.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00298.jpg",
+        "text": "A corridor",
+        "style": "classic"
+    },
+    {
+        "image_file": "00299.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00300.jpg",
+        "text": "A living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00301.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00302.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00303.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00304.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00305.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00306.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00307.jpg",
+        "text": "A dining room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00308.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00309.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00310.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00311.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00312.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00313.jpg",
+        "text": "A bathroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00314.jpg",
+        "text": "A kitchen",
+        "style": "classic"
+    },
+    {
+        "image_file": "00315.jpg",
+        "text": "A dining and living room",
+        "style": "classic"
+    },
+    {
+        "image_file": "00316.jpg",
+        "text": "A corridor",
+        "style": "classic"
+    },
+    {
+        "image_file": "00317.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00318.jpg",
+        "text": "A bedroom",
+        "style": "classic"
+    },
+    {
+        "image_file": "00319.jpg",
+        "text": "A bathroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00320.jpg",
+        "text": "A bathroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00321.jpg",
+        "text": "A living room and kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00322.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00323.jpg",
+        "text": "A conference room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00324.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00325.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00326.jpg",
+        "text": "A conference room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00327.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00328.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00329.jpg",
+        "text": "A bathroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00330.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00331.jpg",
+        "text": "An office",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00332.jpg",
+        "text": "A bathroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00333.jpg",
+        "text": "A dining room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00334.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00335.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00336.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00337.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00338.jpg",
+        "text": "An office",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00339.jpg",
+        "text": "A corridor",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00340.jpg",
+        "text": "A bathroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00341.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00342.jpg",
+        "text": "An office",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00343.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00344.jpg",
+        "text": "A dining room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00345.jpg",
+        "text": "A dining room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00346.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00347.jpg",
+        "text": "An office",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00348.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00349.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00350.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00351.jpg",
+        "text": "An office",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00352.jpg",
+        "text": "An office",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00353.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00354.jpg",
+        "text": "A dining room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00355.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00356.jpg",
+        "text": "A dining room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00357.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00358.jpg",
+        "text": "A corridor",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00359.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00360.jpg",
+        "text": "An office",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00361.jpg",
+        "text": "A bathroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00362.jpg",
+        "text": "An office",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00363.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00364.jpg",
+        "text": "A bathroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00365.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00366.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00367.jpg",
+        "text": "A bathroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00368.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00369.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00370.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00371.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00372.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00373.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00374.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00375.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00376.jpg",
+        "text": "A dining room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00377.jpg",
+        "text": "A dining room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00378.jpg",
+        "text": "A dining room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00379.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00380.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00381.jpg",
+        "text": "A dining room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00382.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00383.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00384.jpg",
+        "text": "A conference room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00385.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00386.jpg",
+        "text": "A bathroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00387.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00388.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00389.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00390.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00391.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00392.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00393.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00394.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00395.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00396.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00397.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00398.jpg",
+        "text": "A conference room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00399.jpg",
+        "text": "A corridor",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00400.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00401.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00402.jpg",
+        "text": "A bathroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00403.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00404.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00405.jpg",
+        "text": "An office",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00406.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00407.jpg",
+        "text": "A kitchen",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00408.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00409.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00410.jpg",
+        "text": "A corridor",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00411.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00412.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00413.jpg",
+        "text": "An office",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00414.jpg",
+        "text": "A corridor",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00415.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00416.jpg",
+        "text": "An office",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00417.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00418.jpg",
+        "text": "A corridor",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00419.jpg",
+        "text": "A bedroom",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00420.jpg",
+        "text": "A living room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00421.jpg",
+        "text": "A conference room",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00422.jpg",
+        "text": "A corridor",
+        "style": "luxurious"
+    },
+    {
+        "image_file": "00423.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00424.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00425.jpg",
+        "text": "A bedroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00426.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00427.jpg",
+        "text": "A bedroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00428.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00429.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00430.jpg",
+        "text": "A kitchen",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00431.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00432.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00433.jpg",
+        "text": "A bathroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00434.jpg",
+        "text": "A corridor",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00435.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00436.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00437.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00438.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00439.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00440.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00441.jpg",
+        "text": "A bathroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00442.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00443.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00444.jpg",
+        "text": "A bedroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00445.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00446.jpg",
+        "text": "A corridor",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00447.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00448.jpg",
+        "text": "A bathroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00449.jpg",
+        "text": "A bathroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00450.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00451.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00452.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00453.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00454.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00455.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00456.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00457.jpg",
+        "text": "A corridor",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00458.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00459.jpg",
+        "text": "A bathroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00460.jpg",
+        "text": "A bathroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00461.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00462.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00463.jpg",
+        "text": "A kitchen",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00464.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00465.jpg",
+        "text": "A kitchen",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00466.jpg",
+        "text": "A bedroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00467.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00468.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00469.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00470.jpg",
+        "text": "A kitchen",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00471.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00472.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00473.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00474.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00475.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00476.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00477.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00478.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00479.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00480.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00481.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00482.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00483.jpg",
+        "text": "A bedroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00484.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00485.jpg",
+        "text": "A laundry room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00486.jpg",
+        "text": "A kitchen",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00487.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00488.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00489.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00490.jpg",
+        "text": "A corridor",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00491.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00492.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00493.jpg",
+        "text": "A corridor",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00494.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00495.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00496.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00497.jpg",
+        "text": "A kitchen",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00498.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00499.jpg",
+        "text": "A bedroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00500.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00501.jpg",
+        "text": "A bedroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00502.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00503.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00504.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00505.jpg",
+        "text": "A kitchen",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00506.jpg",
+        "text": "A bedroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00507.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00508.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00509.jpg",
+        "text": "A laundry room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00510.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00511.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00512.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00513.jpg",
+        "text": "A corridor",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00514.jpg",
+        "text": "A bathroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00515.jpg",
+        "text": "A bedroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00516.jpg",
+        "text": "A kitchen",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00517.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00518.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00519.jpg",
+        "text": "An office",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00520.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00521.jpg",
+        "text": "A bedroom",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00522.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00523.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00524.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00525.jpg",
+        "text": "A living room",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00526.jpg",
+        "text": "An office",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00527.jpg",
+        "text": "A kitchen",
+        "style": "van_gogh"
+    },
+    {
+        "image_file": "00528.jpg",
+        "text": "A dining room",
+        "style": "van_gogh"
+    }
+]

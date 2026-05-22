@@ -1,0 +1,10 @@
+bedroom + hotel_room + 00045 + 00049
+living_room
+bathroom
+kitchen
+dining_room
+conference_room
+corridor
+office + home_office
+game_room + poolroom_home
+art_studio
