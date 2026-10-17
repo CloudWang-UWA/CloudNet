@@ -2,7 +2,7 @@
 
 This folder contains lightweight result summaries that can be inspected directly in the repository.
 
-The full generated images, comparison grids, intermediate evaluation datasets, and model checkpoints are not tracked in git because they are large experiment artifacts. They are available from the external artifact folder below:
+Selected qualitative images and model-comparison assets are included in `docs/qualitative_results/` and displayed by the project page in `docs/`. Full generated image sets, intermediate evaluation datasets, and model checkpoints are not tracked in git because they are large experiment artifacts. They are available from the external artifact folder below:
 
 ```text
 Full CloudNet evaluation artifacts: https://drive.google.com/drive/folders/1iIovFMHSRUaDWqW_M618lsFay0LqDjwX?usp=sharing

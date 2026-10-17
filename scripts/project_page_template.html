@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f6f2">
+  <meta name="description" content="CloudNet: style-controllable indoor scene image generation with diffusion models. Explore five visual styles, semantic layout control, comparisons with FreestyleNet, and ablation studies.">
+  <meta property="og:title" content="CloudNet · Style-Controllable Indoor Scene Generation">
+  <meta property="og:description" content="One semantic layout, five visual styles. Explore CloudNet's qualitative results, benchmarks, and ablation studies.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://cloudwang-uwa.github.io/CloudNet/">
+  <meta property="og:image" content="https://cloudwang-uwa.github.io/CloudNet/assets/images/cloudNet/living_room/cozy.webp">
+  <title>CloudNet · Style-Controllable Indoor Scene Generation</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/site.css">
+  <link rel="canonical" href="https://cloudwang-uwa.github.io/CloudNet/">
+  <script src="assets/site.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="wordmark" href="#" aria-label="CloudNet home"><svg viewBox="0 0 32 26" aria-hidden="true"><path d="M9 21h15a6 6 0 0 0 1-12A9 9 0 0 0 8 7a7 7 0 0 0 1 14Z"/><path d="M10 15h12M13 11v8M19 11v8"/></svg>CloudNet<span class="wordmark-dot">.</span></a>
+      <nav aria-label="Main navigation"><a href="#results">Results</a><a href="#comparison">Comparison</a><a href="#experiments">Experiments</a><a class="nav-code" href="https://github.com/CloudWang-UWA/CloudNet">GitHub <span aria-hidden="true">↗</span></a></nav>
+    </div>
+  </header>
+  <main id="main">
+    <section class="hero container">
+      <p class="eyebrow"><span></span> Research project · The University of Western Australia</p>
+      <h1>CloudNet</h1>
+      <p class="hero-title">Style-Controllable Indoor Scene<br class="desktop-break"> Generation with Diffusion Models</p>
+      <p class="hero-description">Keep the layout. Change the atmosphere.<br>Semantic masks, reference images, and a learned style token guide indoor scenes across five visual styles.</p>
+      <p class="byline">Shudong Wang <span>·</span> Supervised by Assoc. Prof. Du Huynh <span>·</span> May 2026</p>
+      <div class="hero-links"><a class="button button-dark" href="https://github.com/CloudWang-UWA/CloudNet"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18c-4 1-4-2-6-2m12 6v-4a4 4 0 0 0-1-3c3 0 6-2 6-5a4 4 0 0 0-1-3c0-1 0-2-1-3-2 0-3 1-4 1a13 13 0 0 0-6 0C7 5 6 4 4 4c-1 1-1 2-1 3a4 4 0 0 0-1 3c0 3 3 5 6 5a4 4 0 0 0-1 3v4"/></svg>Code on GitHub <span>↗</span></a><a class="button button-light" href="#quantitative">Explore the results <span>↓</span></a><a class="text-link" href="https://drive.google.com/drive/folders/1iIovFMHSRUaDWqW_M618lsFay0LqDjwX?usp=sharing">Models &amp; artifacts <span>↗</span></a></div>
+    </section>
+
+    <section id="results" class="section container gallery-section">
+      <div class="section-heading"><div><p class="eyebrow">01 / Qualitative results</p><h2>One layout. Five distinct styles.</h2></div><p class="section-aside">Five scenes from the dissertation.<br>Click any image for the full-resolution view.</p></div>
+      <div class="scroll-area" role="region" aria-label="Five scenes and five styles; scroll horizontally on small screens" tabindex="0">{{GALLERY}}</div>
+      <p class="figure-note"><span>Figure 1.</span> CloudNet outputs for bedroom, bathroom, living room, kitchen, and dining room. Each row shares the same input semantic mask. <span class="mobile-note">Swipe to see every style.</span></p>
+    </section>
+
+    <section class="about-strip"><div class="container about-inner"><div><p class="eyebrow">The approach</p><h2>Layout meets<br>visual style.</h2></div><div><p>CloudNet combines Stable Diffusion v1.5 with an indoor ControlNet for semantic layout conditioning and a Style IP-Adapter for visual guidance.</p><p>The adapter retains four reference-image tokens and adds one learned style token. Only the style embedding and its projection are optimized during Style IP-Adapter training.</p><div class="method-flow" aria-label="Text prompt and semantic mask and reference image plus style label lead to CloudNet then a stylized scene"><span>Text + mask</span><b>+</b><span>Reference + style</span><b>→</b><strong>CloudNet</strong><b>→</b><span>Indoor scene</span></div></div></div></section>
+
+    <section id="comparison" class="section container">
+      <div class="section-heading"><div><p class="eyebrow">02 / Visual comparison</p><h2>Two ways to style the same scene.</h2></div><p class="section-aside">CloudNet and FreestyleNet.<br>A shared layout, across all five styles.</p></div>
+      {{COMPARISON}}
+      <p class="figure-note"><span>Figure 2.</span> Qualitative comparison on the living room scene used in the dissertation. CloudNet uses reference-image and style-label guidance; FreestyleNet uses text-based style guidance.</p>
+    </section>
+
+    <section id="quantitative" class="section section-tinted">
+      <div class="container">
+        <div class="section-heading"><div><p class="eyebrow">03 / Quantitative results</p><h2>Measured across 2,425 images.</h2></div><a class="text-link" href="assets/results.csv" download>Download the data <span>↓</span></a></div>
+        <p class="section-intro">485 indoor ADE20K masks × 5 styles, with one generated image per mask and style for each experimental setup. Higher is better for all four metrics.</p>
+        <div class="benchmark-layout"><div class="table-wrap">{{BENCHMARK_TABLE}}</div><div class="finding"><span class="finding-label">What the results show</span><p>CloudNet scores higher on <strong>layout preservation</strong> and <strong>aesthetic quality</strong>. FreestyleNet scores higher on <strong>text alignment</strong>.</p><div class="delta-line"><strong>+1.45</strong><span>mIoU percentage points<br>over FreestyleNet</span></div></div></div>
+        <p class="table-note">CLIP-Image measures similarity to the style reference. It is reported only for CloudNet in this comparison. Bold numbers mark the best reported value in each column.</p>
+        <details class="style-details"><summary>Explore results by style <span aria-hidden="true">+</span></summary><div class="style-explorer"><div class="explorer-controls"><p>Compare the two methods across individual styles.</p><label>Metric <select id="style-metric"><option value="miou">mIoU · layout preservation</option><option value="clip_aes">CLIP-AES · aesthetic quality</option><option value="clip_text">CLIP-Text · text alignment</option></select></label></div><div class="chart-legend"><span class="legend-cloud">CloudNet</span><span class="legend-free">FreestyleNet</span></div><div id="style-chart" aria-live="polite"></div><p class="table-note">Bar lengths start at zero. Exact scores are shown beside each bar.</p></div></details>
+      </div>
+    </section>
+
+    <section id="experiments" class="section container">
+      <div class="section-heading"><div><p class="eyebrow">04 / Ablation study</p><h2>What does the style token add?</h2></div><span class="study-tag">Controlled adapter comparison</span></div>
+      <p class="section-intro">Original IP-Adapter and Style IP-Adapter share the trained ControlNet, 100 denoising steps, and an IP-Adapter scale of 0.8. The Style IP-Adapter adds the learned style embedding module.</p>
+      <div class="table-wrap">{{ABLATION_TABLE}}</div>
+      <p class="study-takeaway">Adding the learned style token raises overall reference similarity and aesthetic score, with small decreases in text alignment and mIoU. The improvement is specific to visual guidance rather than uniform across all metrics.</p>
+
+      <div class="subsection-heading"><div><p class="eyebrow">Sensitivity analysis</p><h3>Adjusting the style token scale.</h3></div><span class="study-tag">Checkpoint 6500 fixed</span></div>
+      <p class="section-intro">The inference-time multiplier λ<sub>style</sub> varies from 0.5 to 1.5. It is separate from the IP-Adapter scale, which stays at 0.8. The main reported configuration uses λ<sub>style</sub> = 1.0.</p>
+      <div class="trend-controls" role="group" aria-label="Style token scale chart metric"><button type="button" data-trend="clip_aes" aria-pressed="true">CLIP-AES</button><button type="button" data-trend="miou" aria-pressed="false">mIoU</button><button type="button" data-trend="clip_image" aria-pressed="false">CLIP-Image</button><button type="button" data-trend="clip_text" aria-pressed="false">CLIP-Text</button></div>
+      <div id="scale-chart" class="trend-chart" aria-live="polite"></div>
+      <p class="table-note">Each metric uses its own labeled vertical scale. The points show measured settings; connecting lines are visual guides.</p>
+      <div class="table-wrap compact-table">{{SCALE_TABLE}}</div>
+      <p class="study-takeaway">The observed changes are small and non-monotonic. λ<sub>style</sub> = 0.8 gives the highest aesthetic score; 1.2 gives the highest CLIP-Image and mIoU. These runs do not establish a single best scale across all objectives.</p>
+    </section>
+
+    <section id="checkpoint" class="section checkpoint-section"><div class="container">
+      <div class="section-heading"><div><p class="eyebrow">05 / Model selection</p><h2>Why checkpoint 6500?</h2></div><span class="study-tag">Training steps, not inference steps</span></div>
+      <div class="checkpoint-explanation"><p>The final model prioritizes visual style quality. Among the evaluated checkpoints, <strong>6500 has the highest CLIP-AES score</strong> and a CLIP-Image score close to the best result.</p><p>Checkpoint 500 achieves the highest mIoU and CLIP-Text. Choosing 6500 therefore reflects the project's visual-quality objective, rather than an improvement on every metric.</p></div>
+      <div class="table-wrap">{{CHECKPOINT_TABLE}}</div>
+      <p class="table-note">Checkpoint selection explains the final configuration; the controlled adapter comparison above evaluates the added module. Best values are bold. The selected checkpoint is shaded.</p>
+    </div></section>
+
+    <section class="section container reproducibility" id="resources"><div><p class="eyebrow">Code &amp; data</p><h2>Explore the experiment.</h2><p>Implementation, selected full-resolution outputs, model assets, and the complete evaluation summary.</p></div><div class="resource-links"><a href="https://github.com/CloudWang-UWA/CloudNet"><span>Source code</span><b>GitHub ↗</b></a><a href="https://github.com/CloudWang-UWA/CloudNet/tree/main/docs/qualitative_results"><span>Original figure assets</span><b>Browse images ↗</b></a><a href="assets/evaluation.md" download><span>Full results &amp; per-style tables</span><b>Markdown ↓</b></a><a href="assets/results.json" download><span>Machine-readable experiment data</span><b>JSON ↓</b></a><a href="https://drive.google.com/drive/folders/1iIovFMHSRUaDWqW_M618lsFay0LqDjwX?usp=sharing"><span>Models &amp; experiment artifacts</span><b>Google Drive ↗</b></a></div></section>
+  </main>
+  <footer><div class="container footer-inner"><a class="wordmark" href="#">CloudNet<span class="wordmark-dot">.</span></a><p>Shudong Wang · The University of Western Australia · 2026</p><a href="https://github.com/CloudWang-UWA/CloudNet">View on GitHub ↗</a></div></footer>
+  <dialog id="image-dialog" aria-labelledby="image-caption"><div class="lightbox-toolbar"><p id="image-caption"></p><button id="close-dialog" type="button" aria-label="Close image">Close <span aria-hidden="true">×</span></button></div><img id="full-image" alt=""><a id="original-image-link" target="_blank" rel="noopener">Open original image ↗</a></dialog>
+  <script id="experiment-data" type="application/json">{{RESULTS_DATA}}</script>
+</body>
+</html>

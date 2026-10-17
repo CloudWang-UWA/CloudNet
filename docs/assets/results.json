@@ -1,0 +1,202 @@
+{
+  "benchmark": [
+    {
+      "name": "CloudNet",
+      "clip_text": 24.8286,
+      "clip_image": 0.8359,
+      "clip_aes": 6.1487,
+      "miou": 28.98
+    },
+    {
+      "name": "FreestyleNet",
+      "clip_text": 26.4447,
+      "clip_image": null,
+      "clip_aes": 5.6835,
+      "miou": 27.53
+    }
+  ],
+  "ablation": [
+    {
+      "name": "Original IP-Adapter",
+      "clip_text": 24.9538,
+      "clip_image": 0.8276,
+      "clip_aes": 6.0293,
+      "miou": 29.33
+    },
+    {
+      "name": "Style IP-Adapter (CloudNet)",
+      "clip_text": 24.8286,
+      "clip_image": 0.8359,
+      "clip_aes": 6.1487,
+      "miou": 28.98
+    }
+  ],
+  "checkpoints": [
+    {
+      "name": "500",
+      "clip_text": 24.8881,
+      "clip_image": 0.8352,
+      "clip_aes": 6.1166,
+      "miou": 30.26
+    },
+    {
+      "name": "1500",
+      "clip_text": 24.804,
+      "clip_image": 0.8369,
+      "clip_aes": 6.1312,
+      "miou": 29.33
+    },
+    {
+      "name": "3000",
+      "clip_text": 24.8796,
+      "clip_image": 0.8359,
+      "clip_aes": 6.1236,
+      "miou": 28.06
+    },
+    {
+      "name": "5000",
+      "clip_text": 24.8831,
+      "clip_image": 0.8356,
+      "clip_aes": 6.0934,
+      "miou": 28.15
+    },
+    {
+      "name": "6500",
+      "clip_text": 24.8286,
+      "clip_image": 0.8359,
+      "clip_aes": 6.1487,
+      "miou": 28.98
+    }
+  ],
+  "scales": [
+    {
+      "name": "0.5",
+      "clip_text": 24.835,
+      "clip_image": 0.835,
+      "clip_aes": 6.1509,
+      "miou": 29.06
+    },
+    {
+      "name": "0.8",
+      "clip_text": 24.8116,
+      "clip_image": 0.8361,
+      "clip_aes": 6.1582,
+      "miou": 29.26
+    },
+    {
+      "name": "1.0",
+      "clip_text": 24.8286,
+      "clip_image": 0.8359,
+      "clip_aes": 6.1487,
+      "miou": 28.98
+    },
+    {
+      "name": "1.2",
+      "clip_text": 24.8151,
+      "clip_image": 0.8362,
+      "clip_aes": 6.151,
+      "miou": 29.91
+    },
+    {
+      "name": "1.5",
+      "clip_text": 24.8758,
+      "clip_image": 0.8357,
+      "clip_aes": 6.1434,
+      "miou": 29.0
+    }
+  ],
+  "styleComparison": [
+    {
+      "style": "Cozy",
+      "cloudnet": {
+        "clip_text": 25.5248,
+        "clip_image": 0.8755,
+        "clip_aes": 6.1824,
+        "miou": 33.46
+      },
+      "freestylenet": {
+        "clip_text": 26.5076,
+        "clip_image": null,
+        "clip_aes": 5.5121,
+        "miou": 33.63
+      }
+    },
+    {
+      "style": "Messy",
+      "cloudnet": {
+        "clip_text": 24.1751,
+        "clip_image": 0.7359,
+        "clip_aes": 5.4778,
+        "miou": 29.84
+      },
+      "freestylenet": {
+        "clip_text": 27.2103,
+        "clip_image": null,
+        "clip_aes": 5.5604,
+        "miou": 27.19
+      }
+    },
+    {
+      "style": "Classic",
+      "cloudnet": {
+        "clip_text": 25.3165,
+        "clip_image": 0.8589,
+        "clip_aes": 6.2464,
+        "miou": 34.56
+      },
+      "freestylenet": {
+        "clip_text": 24.9229,
+        "clip_image": null,
+        "clip_aes": 5.7801,
+        "miou": 29.5
+      }
+    },
+    {
+      "style": "Luxurious",
+      "cloudnet": {
+        "clip_text": 25.705,
+        "clip_image": 0.8957,
+        "clip_aes": 6.0467,
+        "miou": 32.36
+      },
+      "freestylenet": {
+        "clip_text": 25.4575,
+        "clip_image": null,
+        "clip_aes": 5.5378,
+        "miou": 32.61
+      }
+    },
+    {
+      "style": "Van Gogh",
+      "cloudnet": {
+        "clip_text": 23.4217,
+        "clip_image": 0.8136,
+        "clip_aes": 6.7902,
+        "miou": 26.39
+      },
+      "freestylenet": {
+        "clip_text": 28.1252,
+        "clip_image": null,
+        "clip_aes": 6.0268,
+        "miou": 25.52
+      }
+    },
+    {
+      "style": "Overall",
+      "cloudnet": {
+        "clip_text": 24.8286,
+        "clip_image": 0.8359,
+        "clip_aes": 6.1487,
+        "miou": 28.98
+      },
+      "freestylenet": {
+        "clip_text": 26.4447,
+        "clip_image": null,
+        "clip_aes": 5.6835,
+        "miou": 27.53
+      }
+    }
+  ],
+  "source": "https://github.com/CloudWang-UWA/CloudNet/blob/main/results/cloudnet_evaluation_comparison.md",
+  "summary_sha256": "86a9b7cc9f95d032a4d70359f48fee7f14c7298661e6d78eb795a0dedd5ce39d"
+}

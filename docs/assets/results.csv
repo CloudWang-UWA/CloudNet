@@ -1,0 +1,15 @@
+experiment,setting,CLIP-Text,CLIP-Image,CLIP-AES,mIoU
+benchmark,CloudNet,24.8286,0.8359,6.1487,28.98
+benchmark,FreestyleNet,26.4447,,5.6835,27.53
+adapter_ablation,Original IP-Adapter,24.9538,0.8276,6.0293,29.33
+adapter_ablation,Style IP-Adapter (CloudNet),24.8286,0.8359,6.1487,28.98
+checkpoint,500,24.8881,0.8352,6.1166,30.26
+checkpoint,1500,24.804,0.8369,6.1312,29.33
+checkpoint,3000,24.8796,0.8359,6.1236,28.06
+checkpoint,5000,24.8831,0.8356,6.0934,28.15
+checkpoint,6500,24.8286,0.8359,6.1487,28.98
+style_token_scale,0.5,24.835,0.835,6.1509,29.06
+style_token_scale,0.8,24.8116,0.8361,6.1582,29.26
+style_token_scale,1.0,24.8286,0.8359,6.1487,28.98
+style_token_scale,1.2,24.8151,0.8362,6.151,29.91
+style_token_scale,1.5,24.8758,0.8357,6.1434,29.0

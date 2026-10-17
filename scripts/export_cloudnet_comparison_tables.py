@@ -58,9 +58,9 @@ RUNS = {
 
 CHECKPOINT_RUNS = [
     ("ckpt500", "2026-05-01_style-ipadapter-token5_controlnet97_100steps_scale0.8", "2026-05-01_style-ipadapter-token5_controlnet97_100steps_scale0.8_swin-l", "Original token5"),
-    ("ckpt1500", "2026-05-02_style-ipadapter-token5_ckpt1500_controlnet97_100steps_scale0.8", None, "Style checkpoint ablation"),
-    ("ckpt3000", "2026-05-02_style-ipadapter-token5_ckpt3000_controlnet97_100steps_scale0.8", None, "Style checkpoint ablation"),
-    ("ckpt5000", "2026-05-02_style-ipadapter-token5_ckpt5000_controlnet97_100steps_scale0.8", None, "Style checkpoint ablation"),
+    ("ckpt1500", "2026-05-02_style-ipadapter-token5_ckpt1500_controlnet97_100steps_scale0.8", "2026-05-02_style-ipadapter-token5_ckpt1500_controlnet97_100steps_scale0.8_swin-l", "Style checkpoint ablation"),
+    ("ckpt3000", "2026-05-02_style-ipadapter-token5_ckpt3000_controlnet97_100steps_scale0.8", "2026-05-02_style-ipadapter-token5_ckpt3000_controlnet97_100steps_scale0.8_swin-l", "Style checkpoint ablation"),
+    ("ckpt5000", "2026-05-02_style-ipadapter-token5_ckpt5000_controlnet97_100steps_scale0.8", "2026-05-02_style-ipadapter-token5_ckpt5000_controlnet97_100steps_scale0.8_swin-l", "Style checkpoint ablation"),
     ("ckpt6500", "2026-05-02_style-ipadapter-token5_ckpt6500_controlnet97_100steps_scale0.8", "2026-05-02_style-ipadapter-token5_ckpt6500_controlnet97_100steps_scale0.8_swin-l", "Best CLIP-AES; current main"),
 ]
 

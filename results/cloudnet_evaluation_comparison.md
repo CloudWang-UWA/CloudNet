@@ -54,9 +54,9 @@ Missing values are shown as `/`.
 | Checkpoint | CLIP-Text | CLIP-Image | CLIP-AES | mIoU    | Comment                     |
 | ---------- | --------- | ---------- | -------- | ------- | --------------------------- |
 | ckpt500    | 24.8881   | 0.8352     | 6.1166   | 30.2600 | Original token5             |
-| ckpt1500   | 24.8040   | 0.8369     | 6.1312   | /       | Style checkpoint ablation   |
-| ckpt3000   | 24.8796   | 0.8359     | 6.1236   | /       | Style checkpoint ablation   |
-| ckpt5000   | 24.8831   | 0.8356     | 6.0934   | /       | Style checkpoint ablation   |
+| ckpt1500   | 24.8040   | 0.8369     | 6.1312   | 29.3300 | Style checkpoint ablation   |
+| ckpt3000   | 24.8796   | 0.8359     | 6.1236   | 28.0600 | Style checkpoint ablation   |
+| ckpt5000   | 24.8831   | 0.8356     | 6.0934   | 28.1500 | Style checkpoint ablation   |
 | ckpt6500   | 24.8286   | 0.8359     | 6.1487   | 28.9800 | Best CLIP-AES; current main |
 
 ## Style Scale Sensitivity

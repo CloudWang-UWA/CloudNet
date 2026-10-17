@@ -2,6 +2,8 @@
 
 CloudNet is a diffusion-based pipeline for style-controllable indoor scene image generation. Given a text prompt, a semantic mask, and a style reference image, the model generates an indoor image that follows the input layout while changing the visual style.
 
+[Project page](https://cloudwang-uwa.github.io/CloudNet/) · [Evaluation results](results/cloudnet_evaluation_comparison.md) · [Qualitative results](docs/qualitative_results)
+
 The project combines:
 
 - Stable Diffusion v1.5 as the image generation backbone
@@ -18,9 +20,11 @@ ip_adapter_with_style.py Style IP-Adapter inference wrapper
 evaluation/              CLIP, aesthetic, LPIPS, and mIoU evaluation scripts
 scripts/                 End-to-end workflow and ablation scripts
 image_generation/        Prompt folders and style reference images
+docs/                    Static project page and selected qualitative results
+results/                 Checked-in evaluation summary
 ```
 
-Large assets such as datasets, pretrained weights, trained checkpoints, generated images, W&B logs, and cluster outputs are intentionally not tracked in git.
+Large assets such as datasets, pretrained weights, trained checkpoints, full generated image sets, W&B logs, and cluster outputs are intentionally not tracked in git. Selected qualitative results and the static project page are included in `docs/`.
 
 ## Environment
 
@@ -159,7 +163,19 @@ scripts/run_style_token_scale_ablation.sh
 
 Generated evaluation datasets and metric outputs are ignored by git.
 
-Lightweight summary tables are provided in `results/cloudnet_evaluation_comparison.md`. Full generated images, comparison grids, and intermediate evaluation artifacts should be downloaded separately from the external artifact link listed above.
+Lightweight summary tables are provided in `results/cloudnet_evaluation_comparison.md`. The project page presents the five main qualitative scenes, the living room comparison with FreestyleNet, the controlled adapter ablation, style-token-scale sensitivity, and checkpoint selection. Selected full-resolution figure assets are included in `docs/qualitative_results/`; full experiment artifacts remain available separately through the external link above.
+
+## Project Page
+
+The static project page is served from `docs/` using GitHub Pages. Its tables and downloadable data are generated from `results/cloudnet_evaluation_comparison.md`:
+
+```bash
+python scripts/build_project_page.py
+python scripts/build_project_page.py --check
+python -m http.server 8765 --directory docs
+```
+
+The build uses Pillow to create display-sized WebP images and retains links to the original PNGs. See `docs/README.md` for editing and publishing instructions.
 
 ## Notes
 
