@@ -4,13 +4,13 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f7f6f2">
-  <meta name="description" content="CloudNet: style-controllable indoor scene image generation with diffusion models. Explore five visual styles, semantic layout control, comparisons with FreestyleNet, and ablation studies.">
-  <meta property="og:title" content="CloudNet · Style-Controllable Indoor Scene Generation">
+  <meta name="description" content="CloudNet: Style-Controllable Indoor Scene Image Generation with Diffusion Models. Explore five visual styles, semantic layout control, comparisons with FreestyleNet, and ablation studies.">
+  <meta property="og:title" content="CloudNet · Style-Controllable Indoor Scene Image Generation with Diffusion Models">
   <meta property="og:description" content="One semantic layout, five visual styles. Explore CloudNet's qualitative results, benchmarks, and ablation studies.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://cloudwang-uwa.github.io/CloudNet/">
   <meta property="og:image" content="https://cloudwang-uwa.github.io/CloudNet/assets/images/cloudNet/living_room/cozy.webp">
-  <title>CloudNet · Style-Controllable Indoor Scene Generation</title>
+  <title>CloudNet · Style-Controllable Indoor Scene Image Generation with Diffusion Models</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="assets/site.css">
   <link rel="canonical" href="https://cloudwang-uwa.github.io/CloudNet/">
@@ -21,17 +21,29 @@
   <header class="site-header">
     <div class="header-inner">
       <a class="wordmark" href="#" aria-label="CloudNet home"><svg viewBox="0 0 32 26" aria-hidden="true"><path d="M9 21h15a6 6 0 0 0 1-12A9 9 0 0 0 8 7a7 7 0 0 0 1 14Z"/><path d="M10 15h12M13 11v8M19 11v8"/></svg>CloudNet<span class="wordmark-dot">.</span></a>
-      <nav aria-label="Main navigation"><a href="#method">Method</a><a href="#results">Results</a><a class="nav-comparison" href="#comparison">Comparison</a><a class="nav-experiments" href="#experiments">Experiments</a><a class="nav-code" href="https://github.com/CloudWang-UWA/CloudNet">GitHub <span aria-hidden="true">↗</span></a></nav>
+      <nav aria-label="Main navigation"><a href="#abstract">Abstract</a><a href="#method">Method</a><a class="nav-results" href="#results">Results</a><a class="nav-comparison" href="#comparison">Comparison</a><a class="nav-experiments" href="#experiments">Experiments</a><a class="nav-code" href="https://github.com/CloudWang-UWA/CloudNet">GitHub <span aria-hidden="true">↗</span></a></nav>
     </div>
   </header>
   <main id="main">
     <section class="hero container">
       <p class="eyebrow"><span></span> Research project · The University of Western Australia</p>
       <h1>CloudNet</h1>
-      <p class="hero-title">Style-Controllable Indoor Scene<br class="desktop-break"> Generation with Diffusion Models</p>
-      <p class="hero-description">Keep the layout. Change the atmosphere.<br>Semantic masks, reference images, and a learned style token guide indoor scenes across five visual styles.</p>
+      <p class="hero-title">Style-Controllable Indoor Scene Image Generation<br class="desktop-break"> with Diffusion Models</p>
       <p class="byline">Shudong Wang <span>·</span> Supervised by Assoc. Prof. Du Huynh <span>·</span> May 2026</p>
       <div class="hero-links"><a class="button button-dark" href="https://github.com/CloudWang-UWA/CloudNet"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18c-4 1-4-2-6-2m12 6v-4a4 4 0 0 0-1-3c3 0 6-2 6-5a4 4 0 0 0-1-3c0-1 0-2-1-3-2 0-3 1-4 1a13 13 0 0 0-6 0C7 5 6 4 4 4c-1 1-1 2-1 3a4 4 0 0 0-1 3c0 3 3 5 6 5a4 4 0 0 0-1 3v4"/></svg>Code on GitHub <span>↗</span></a><a class="button button-light" href="#quantitative">Explore the results <span>↓</span></a><a class="text-link" href="https://drive.google.com/drive/folders/1iIovFMHSRUaDWqW_M618lsFay0LqDjwX?usp=sharing">Models &amp; artifacts <span>↗</span></a></div>
+    </section>
+
+    <section id="abstract" class="abstract-section container" aria-labelledby="abstract-title">
+      <h2 id="abstract-title">Abstract</h2>
+      <figure class="teaser-figure">
+        <div class="scroll-area" role="region" aria-label="Living room examples: semantic mask and five styles; scroll horizontally on small screens" tabindex="0"><div class="teaser-grid"><div class="column-label">Semantic mask</div><div class="column-label">Cozy</div><div class="column-label">Messy</div><div class="column-label">Classic</div><div class="column-label">Luxurious</div><div class="column-label">Van Gogh</div><button class="image-button" type="button" data-full="qualitative_results/cloudNet/living_room/mask.png" data-caption="Living room · input semantic mask" aria-label="Enlarge: Living room · input semantic mask"><img src="assets/images/cloudNet/living_room/mask.webp" alt="Living room · input semantic mask" width="720" height="480" loading="eager" decoding="async"></button><button class="image-button" type="button" data-full="qualitative_results/cloudNet/living_room/cozy.png" data-caption="Living room · Cozy · CloudNet" aria-label="Enlarge: Living room · Cozy · CloudNet"><img src="assets/images/cloudNet/living_room/cozy.webp" alt="Living room · Cozy · CloudNet" width="720" height="480" loading="eager" decoding="async"></button><button class="image-button" type="button" data-full="qualitative_results/cloudNet/living_room/messy.png" data-caption="Living room · Messy · CloudNet" aria-label="Enlarge: Living room · Messy · CloudNet"><img src="assets/images/cloudNet/living_room/messy.webp" alt="Living room · Messy · CloudNet" width="720" height="480" loading="eager" decoding="async"></button><button class="image-button" type="button" data-full="qualitative_results/cloudNet/living_room/classic.png" data-caption="Living room · Classic · CloudNet" aria-label="Enlarge: Living room · Classic · CloudNet"><img src="assets/images/cloudNet/living_room/classic.webp" alt="Living room · Classic · CloudNet" width="720" height="480" loading="eager" decoding="async"></button><button class="image-button" type="button" data-full="qualitative_results/cloudNet/living_room/luxurious.png" data-caption="Living room · Luxurious · CloudNet" aria-label="Enlarge: Living room · Luxurious · CloudNet"><img src="assets/images/cloudNet/living_room/luxurious.webp" alt="Living room · Luxurious · CloudNet" width="720" height="480" loading="eager" decoding="async"></button><button class="image-button" type="button" data-full="qualitative_results/cloudNet/living_room/van_gogh.png" data-caption="Living room · Van Gogh · CloudNet" aria-label="Enlarge: Living room · Van Gogh · CloudNet"><img src="assets/images/cloudNet/living_room/van_gogh.webp" alt="Living room · Van Gogh · CloudNet" width="720" height="480" loading="eager" decoding="async"></button></div></div>
+        <figcaption class="figure-note"><span>Living room examples.</span> Five visual styles generated from the same semantic layout. Click an image to enlarge. <span class="mobile-note">Swipe to see every style.</span></figcaption>
+      </figure>
+      <div class="abstract-copy">
+        <p>Scene understanding is essential for applications such as indoor robotics, but training such systems requires large-scale annotated datasets, which are expensive to obtain. Generating realistic synthetic data provides a promising alternative for scalable dataset augmentation. In this project, we propose CloudNet, a diffusion-based framework for style-controllable indoor scene image generation. Given a text prompt, a semantic mask, and a style reference image with an associated style prompt, the model generates images that preserve the structural layout while allowing flexible control over visual style. This enables the creation of diverse training data without additional manual annotation, as the generated images inherit the semantic masks (annotations) from real images.</p>
+        <p>The proposed method combines a Stable Diffusion backbone with ControlNet for structural conditioning and a Style IP-Adapter for style control. The Style IP-Adapter extends the original IP-Adapter by introducing a learnable style embedding, enabling both instance-level (reference image-based) and abstract style guidance.</p>
+        <p>The proposed CloudNet is then compared with FreestyleNet, which is also capable of generating images with different styles. Experimental results show that while FreestyleNet achieves stronger text alignment, CloudNet performs better in terms of structural consistency and style quality, as measured by Mean Intersection over Union (mIoU) and CLIP-Aesthetic scores. These findings demonstrate the effectiveness of combining structural and style conditioning in diffusion models. Future work will focus on improving the generalisation ability of the style module to support unseen styles without relying on predefined styles.</p>
+      </div>
     </section>
 
     <section id="method" class="about-strip" aria-labelledby="method-title">

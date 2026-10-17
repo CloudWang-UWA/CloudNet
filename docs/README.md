@@ -13,7 +13,9 @@ https://cloudwang-uwa.github.io/CloudNet/
 - `assets/results.json`, `assets/results.csv`, and `assets/evaluation.md`: generated experiment data and summary downloads.
 - `../results/cloudnet_evaluation_comparison.md`: authoritative result summary.
 
-The first image grid reproduces the five main scenes in dissertation Figure 4.1. The second grid uses the living room comparison from Figure 4.2. Other scene and backup assets remain in `qualitative_results/` but are not used in these page figures.
+The page opens with the formal project title and author/supervisor, followed by the Abstract with a living room example strip, then the method and architecture diagram. The example strip reuses the living room images without removing their row from the later complete gallery.
+
+The complete qualitative grid reproduces the five main scenes in dissertation Figure 4.1. The model-comparison grid uses the living room comparison from Figure 4.2. Other scene and backup assets remain in `qualitative_results/` but are not used in these page figures.
 
 ## Rebuild and validate
 

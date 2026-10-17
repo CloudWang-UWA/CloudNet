@@ -82,6 +82,15 @@ def architecture() -> str:
             'loading="eager" decoding="async"></button>')
 
 
+def teaser() -> str:
+    cells = '<div class="column-label">Semantic mask</div>'
+    cells += "".join(f'<div class="column-label">{name}</div>' for _, name in STYLES)
+    cells += picture("cloudNet/living_room/mask.png", "Living room · input semantic mask", mask=True, eager=True)
+    for style, name in STYLES:
+        cells += picture(f"cloudNet/living_room/{style}.png", f"Living room · {name} · CloudNet", eager=True)
+    return '<div class="teaser-grid">' + cells + "</div>"
+
+
 def gallery() -> str:
     cells = '<div class="grid-corner">Scene</div><div class="column-label">Semantic mask</div>'
     cells += "".join(f'<div class="column-label">{name}</div>' for _, name in STYLES)
@@ -176,7 +185,7 @@ def main() -> None:
         print("Verified: all four experiment tables, 6 style splits, and all page resource paths.")
         return
     ASSETS.mkdir(parents=True, exist_ok=True)
-    replacements = {"ARCHITECTURE": architecture(), "GALLERY": gallery(), "COMPARISON": comparison(),
+    replacements = {"TEASER": teaser(), "ARCHITECTURE": architecture(), "GALLERY": gallery(), "COMPARISON": comparison(),
                     "BENCHMARK_TABLE": metric_table(benchmark, "Method"),
                     "ABLATION_TABLE": metric_table(ablation, "Adapter"),
                     "CHECKPOINT_TABLE": metric_table(checkpoints, "Training step", selected="6500"),
