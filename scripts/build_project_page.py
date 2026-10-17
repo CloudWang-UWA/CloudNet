@@ -71,6 +71,17 @@ def picture(relative: str, label: str, *, mask: bool = False, eager: bool = Fals
             f'loading="{"eager" if eager else "lazy"}" decoding="async"></button>')
 
 
+def architecture() -> str:
+    relative = "architecture/CloudNet.png"
+    label = "CloudNet architecture: semantic ControlNet, Style IP-Adapter, and the diffusion U-Net"
+    with Image.open(DOCS / relative) as image:
+        width, height = image.size
+    return (f'<button class="image-button architecture-image" type="button" data-full="{relative}" '
+            f'data-caption="{html.escape(label)}" aria-label="Enlarge: {html.escape(label)}">'
+            f'<img src="{relative}" alt="{html.escape(label)}" width="{width}" height="{height}" '
+            'loading="eager" decoding="async"></button>')
+
+
 def gallery() -> str:
     cells = '<div class="grid-corner">Scene</div><div class="column-label">Semantic mask</div>'
     cells += "".join(f'<div class="column-label">{name}</div>' for _, name in STYLES)
@@ -165,7 +176,7 @@ def main() -> None:
         print("Verified: all four experiment tables, 6 style splits, and all page resource paths.")
         return
     ASSETS.mkdir(parents=True, exist_ok=True)
-    replacements = {"GALLERY": gallery(), "COMPARISON": comparison(),
+    replacements = {"ARCHITECTURE": architecture(), "GALLERY": gallery(), "COMPARISON": comparison(),
                     "BENCHMARK_TABLE": metric_table(benchmark, "Method"),
                     "ABLATION_TABLE": metric_table(ablation, "Adapter"),
                     "CHECKPOINT_TABLE": metric_table(checkpoints, "Training step", selected="6500"),

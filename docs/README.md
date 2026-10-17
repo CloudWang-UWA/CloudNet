@@ -8,6 +8,7 @@ https://cloudwang-uwa.github.io/CloudNet/
 
 - `index.html`: generated page; edit `../scripts/project_page_template.html` instead.
 - `assets/site.css` and `assets/site.js`: presentation and browser interactions.
+- `architecture/CloudNet.png`: original architecture diagram, displayed in the Method section before qualitative results and available in the image viewer.
 - `assets/images/`: generated WebP display copies, linked to full-resolution PNGs in `qualitative_results/`.
 - `assets/results.json`, `assets/results.csv`, and `assets/evaluation.md`: generated experiment data and summary downloads.
 - `../results/cloudnet_evaluation_comparison.md`: authoritative result summary.
